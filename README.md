@@ -49,5 +49,3 @@ The notebook:
 7. **Visualization**  
    - Plotted actual vs predicted values  
    - Visualized feature importance
-
-## 📈 Example Metrics (Fill in your valu
